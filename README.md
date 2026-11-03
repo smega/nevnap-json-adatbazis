@@ -1,16 +1,21 @@
-# Nevnap-json-adatbazis
+# Névnap JSON-adatbázis
 
-A repo tartalmaz ket json file-t, melyek nev es nap alapjan tartalmazzak a nevnapokat. 
-Ezekbol veszi az adatokat a https://api.nevnapok.eu oldal is.
+A repó két JSON-fájlt tartalmaz a magyar névnapokról:
 
-Frissitve: 2026.11.03.
+- `nap_nev.json`: dátum szerint (pl. `"01-02"`), az adott nap összes névnapjával,
+- `nev_nap.json`: név szerint, az adott név összes névnapjával.
 
-## Valtozasok
+Ezekből veszi az adatokat a https://api.nevnapok.eu is.
 
-- **2026.11.03.** A `nap_nev.json`-bol (datum -> nevek) majdnem minden naprol
-  hianyzott egy nev (az eredeti generalasnal elcsuszott az elso elem), osszesen
-  362 nev. Ezeket visszaraktam a teljes `nev_nap.json` alapjan, igy a ket fajl
-  most pontosan ugyanazokat a nev-datum parokat tartalmazza. Uj nevek: Gerzson
-  (02-22), Bendeguz (05-07), Adam (09-09), Naren (10-19).
-- **2019.11.17.** Elso valtozat.
-Adatok: https://hu.wikipedia.org/wiki/Magyar_n%C3%A9vnapok_list%C3%A1ja_bet%C5%B1rendben oldalrol szarmaznak. 
+Az adatok forrása: [Magyar névnapok listája betűrendben](https://hu.wikipedia.org/wiki/Magyar_n%C3%A9vnapok_list%C3%A1ja_bet%C5%B1rendben) (Wikipédia).
+
+Frissítve: 2026.11.03.
+
+## Változások
+
+- **2026.11.03.** A `nap_nev.json`-ból (dátum -> nevek) majdnem minden napról
+  hiányzott egy név (az eredeti generálásnál elcsúszott az első elem), összesen
+  362 név. Ezeket visszaraktam a teljes `nev_nap.json` alapján, így a két fájl
+  most pontosan ugyanazokat a név-dátum párokat tartalmazza. Új nevek: Gerzson
+  (02-22), Bendegúz (05-07), Ádám (09-09), Naren (10-19).
+- **2019.11.17.** Első változat.
