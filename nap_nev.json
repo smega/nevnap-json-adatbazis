@@ -415,6 +415,7 @@
         "Citta",
         "Délia",
         "Dorián",
+        "Dormán",
         "Dzsenifer",
         "Surány",
         "Surd",
@@ -464,6 +465,7 @@
         "Ferenc",
         "Metella",
         "Milenka",
+        "Miléna",
         "Oxána",
         "Surány",
         "Surd",
@@ -641,10 +643,12 @@
     "02-02": [
         "Adna",
         "Aida",
+        "Apor",
         "Aporka",
         "Bodó",
         "Brúnó",
         "Brútusz",
+        "Johanna",
         "Karolina",
         "Manyi",
         "Maréza",
@@ -693,6 +697,7 @@
         "Gilbert",
         "Holló",
         "Janka",
+        "Johanna",
         "Kada",
         "Ormos",
         "Rabán",
@@ -964,7 +969,7 @@
         "Julinka",
         "Juliska",
         "Lilla",
-        "Múzsa",
+        "Musztafa",
         "Samu",
         "Sámuel",
         "Zámor"
@@ -1000,7 +1005,7 @@
         "Simon",
         "Sion",
         "Szilvánusz",
-        "Zengő"
+        "Zenkő"
     ],
     "02-19": [
         "Anda",
@@ -1586,6 +1591,7 @@
         "Klaudia",
         "Klaudiána",
         "Kötöny",
+        "Lexa",
         "Mór",
         "Móric",
         "Sugár",
@@ -1641,7 +1647,7 @@
         "Kartal",
         "Odin",
         "Ottó",
-        "Pilár",
+        "Pilis",
         "Údó"
     ],
     "03-24": [
@@ -1662,6 +1668,7 @@
         "Katalin",
         "Katarina",
         "Katerina",
+        "Miléna",
         "Simeon"
     ],
     "03-25": [
@@ -1742,6 +1749,7 @@
         "Ixion",
         "Janina",
         "János",
+        "Johanna",
         "Kapisztrán",
         "Katapán",
         "Maja",
@@ -1787,6 +1795,7 @@
         "Benő",
         "Gujdó",
         "Jelek",
+        "Johanna",
         "Kornélia",
         "Üllő",
         "Zsanka",
@@ -2126,7 +2135,7 @@
         "Kájusz",
         "Kelemen",
         "Kelen",
-        "Leonetta",
+        "Leonidász",
         "Naómi",
         "Noé",
         "Noémi",
@@ -2378,6 +2387,7 @@
         "Peregrina",
         "Szvetlána",
         "Tétény",
+        "Valburga",
         "Zobor",
         "Zsaklin",
         "Zsigmond"
@@ -2506,6 +2516,7 @@
         "Dalma",
         "Domicián",
         "Domitilla",
+        "Gália",
         "Germán",
         "Giza",
         "Gizella",
@@ -2630,6 +2641,7 @@
         "Gyöngyvirág",
         "Ivána",
         "Ivica",
+        "Johanna",
         "Kora",
         "Korália",
         "Korall",
@@ -2798,6 +2810,7 @@
         "Hannadóra",
         "Hannaliza",
         "Hannaróza",
+        "Johanna",
         "Kolomba",
         "Kolombina",
         "Palóma",
@@ -2876,6 +2889,7 @@
         "Mária",
         "Marióra",
         "Milenka",
+        "Miléna",
         "Simeon",
         "Simon",
         "Sion",
@@ -3016,6 +3030,7 @@
         "Janka",
         "Jenni",
         "Jente",
+        "Johanna",
         "Nanda",
         "Nandin",
         "Nándor",
@@ -3601,7 +3616,7 @@
         "Lauretta",
         "Leó",
         "Leon",
-        "Leonetta",
+        "Leonidász",
         "Levente",
         "Lionel",
         "Lora",
@@ -3814,7 +3829,7 @@
         "Csatád",
         "Csatár",
         "Csató",
-        "Detti",
+        "Deva",
         "Edgár",
         "Ellák",
         "Eperke",
@@ -4024,6 +4039,7 @@
         "Talamér",
         "Vladimír",
         "Vladiszláv",
+        "Zafír",
         "Zomilla"
     ],
     "07-16": [
@@ -4870,6 +4886,7 @@
         "Franciska",
         "Grácia",
         "Hajna",
+        "Johanna",
         "Kemenes",
         "Maximilián",
         "Pelbárt",
@@ -5524,6 +5541,7 @@
     ],
     "09-27": [
         "Adalbert",
+        "Albert",
         "Damján",
         "Damos",
         "Demény",
@@ -5889,7 +5907,8 @@
         "Teri",
         "Terka",
         "Tessza",
-        "Vilma"
+        "Vilma",
+        "Zafír"
     ],
     "10-16": [
         "Ambos",
@@ -6659,6 +6678,7 @@
         "András",
         "André",
         "Bandó",
+        "Dormán",
         "Endre",
         "Tarján",
         "Trajánusz",
@@ -6765,7 +6785,7 @@
         "Kerecsen",
         "Sába",
         "Sebő",
-        "Üllő",
+        "Ünige",
         "Vilma"
     ],
     "12-06": [
@@ -6863,6 +6883,7 @@
         "Bulcsú",
         "Csepel",
         "Gabriella",
+        "Johanna",
         "Santál"
     ],
     "12-13": [
@@ -7086,6 +7107,7 @@
         "Tifani"
     ],
     "12-28": [
+        "Apor",
         "Apród",
         "Ármin",
         "Gáspár",

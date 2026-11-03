@@ -13,6 +13,12 @@ Frissítve: 2026.11.03.
 
 ## Változások
 
+- **2026.11.03.** Szinkronizálás a Wikipédia-listával (utolsó szerkesztés:
+  2026.09.01.). 464 új név (ebből 453 névnap nélküli), 29 új és 7 áthelyezett
+  dátum. Új nevek dátummal: Gália, Lexa, Miléna, Valburga, Zafír. Néhány dátum
+  eddig az ábécében előtte álló névnél szerepelt, ezek a helyükre kerültek
+  (pl. 07-08 Detti helyett Deva, 03-23 Pilár helyett Pilis). Új dátumok:
+  Albert (09-27), Apor, Dormán, Johanna.
 - **2026.11.03.** A `nap_nev.json`-ból (dátum -> nevek) majdnem minden napról
   hiányzott egy név (az eredeti generálásnál elcsúszott az első elem), összesen
   362 név. Ezeket visszaraktam a teljes `nev_nap.json` alapján, így a két fájl
